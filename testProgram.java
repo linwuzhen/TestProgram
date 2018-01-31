@@ -16,6 +16,8 @@ public class testProgram{
 		System.out.println("dev update code v1.0 !!!");
 
 		System.out.println("version 4 !!!");
+
+		System.out.println("hehe");
 	}
 
 
