@@ -8,6 +8,8 @@ public class testProgram{
 		System.out.println("version 2 !!!");
 		
 		System.out.println("version 3 !!!");
+		
+		System.out.println("dev update code v1.0 !!!");
 	}
 
 
